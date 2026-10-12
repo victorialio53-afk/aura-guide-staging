@@ -2730,6 +2730,32 @@ footer {
 }
 
 
+
+.task-card-done {
+    padding: 15px 18px;
+    border-color: rgba(255,255,255,0.10);
+    background: rgba(255,255,255,0.025);
+    opacity: 0.62;
+}
+
+.task-card-done .task-card-top {
+    margin-bottom: 8px;
+    color: #888890;
+}
+
+.task-card-done h4 {
+    margin-bottom: 12px;
+    color: #aaaab1;
+    font-size: 20px;
+}
+
+.task-card-done .task-complete {
+    margin-top: 0;
+    border-color: rgba(255,255,255,0.10);
+    background: rgba(255,255,255,0.02);
+    color: #8e8e96;
+}
+
 .task-card-main {
     margin-top: 14px;
 }
